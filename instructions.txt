@@ -1,5 +1,2 @@
-Instructions for deploying this file to the server.
-
-Installation on IIS 
-
-Content goes here
+Insstructions for deploying this site to the server
+---------------------------------------------------
