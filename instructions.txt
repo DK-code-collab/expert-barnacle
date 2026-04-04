@@ -1,1 +1,1 @@
-Instructions for deploying this file.
+Instructions for deploying this file to the server.
