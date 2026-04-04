@@ -1,1 +1,2 @@
-Installation on IIS 
+Insstructions for deploying this site to the server
+---------------------------------------------------
