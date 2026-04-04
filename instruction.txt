@@ -1,5 +1,3 @@
 Instructions for deploying this file to the server.
 
 Installation on IIS 
-
-Content goes here
